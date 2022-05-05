@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\05.05homework\05.05homework\bin\Debug\netcoreapp3.1\05.05homework.exe
+C:\Users\DELL\source\repos\05.05homework\05.05homework\bin\Debug\netcoreapp3.1\05.05homework.deps.json
+C:\Users\DELL\source\repos\05.05homework\05.05homework\bin\Debug\netcoreapp3.1\05.05homework.runtimeconfig.json
+C:\Users\DELL\source\repos\05.05homework\05.05homework\bin\Debug\netcoreapp3.1\05.05homework.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\05.05homework\05.05homework\bin\Debug\netcoreapp3.1\05.05homework.dll
+C:\Users\DELL\source\repos\05.05homework\05.05homework\bin\Debug\netcoreapp3.1\05.05homework.pdb
+C:\Users\DELL\source\repos\05.05homework\05.05homework\obj\Debug\netcoreapp3.1\05.05homework.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\05.05homework\05.05homework\obj\Debug\netcoreapp3.1\05.05homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\05.05homework\05.05homework\obj\Debug\netcoreapp3.1\05.05homework.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\05.05homework\05.05homework\obj\Debug\netcoreapp3.1\05.05homework.AssemblyInfo.cs
+C:\Users\DELL\source\repos\05.05homework\05.05homework\obj\Debug\netcoreapp3.1\05.05homework.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\05.05homework\05.05homework\obj\Debug\netcoreapp3.1\05.05homework.dll
+C:\Users\DELL\source\repos\05.05homework\05.05homework\obj\Debug\netcoreapp3.1\05.05homework.pdb
+C:\Users\DELL\source\repos\05.05homework\05.05homework\obj\Debug\netcoreapp3.1\05.05homework.genruntimeconfig.cache
